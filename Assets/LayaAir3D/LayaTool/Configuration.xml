@@ -28,7 +28,7 @@
     <Ios>False</Ios>
     <Android>False</Android>
     <Conventional>True</Conventional>
-    <SavePath>E:/LayaProjects/CatAndMouse/bin</SavePath>
+    <SavePath>E:/GitProjects/CatAndMouse/bin</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
   </config1>
   <config2>
@@ -156,7 +156,7 @@
     <ScrollPositionY>0</ScrollPositionY>
   </config5>
   <language>1</language>
-  <time>1593679131</time>
+  <time>1593950825</time>
   <saveAcount>
   </saveAcount>
   <savePassWorld>
